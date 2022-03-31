@@ -14,7 +14,7 @@ class Fruit {
     }
 }
 
-$mango -> name = 'Manggo';
+$mango = new Fruit();
 $mango -> color =  'Yellow';
 $mango -> weight = '300';
 
